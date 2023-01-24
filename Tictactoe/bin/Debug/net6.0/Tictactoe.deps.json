@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tictactoe/1.0.0": {
+        "dependencies": {
+          "Tictactoe.Core": "1.0.0"
+        },
+        "runtime": {
+          "Tictactoe.dll": {}
+        }
+      },
+      "Tictactoe.Core/1.0.0": {
+        "runtime": {
+          "Tictactoe.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tictactoe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tictactoe.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
